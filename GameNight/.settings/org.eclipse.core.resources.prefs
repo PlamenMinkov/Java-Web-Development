@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/jwd/gamenight/controller/game/GameController.java=UTF-8
+encoding//src/main/java/org/jwd/gamenight/dao/game/GameDaoImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/tags/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/tags/header.jsp=UTF-8
